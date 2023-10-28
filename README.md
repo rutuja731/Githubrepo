@@ -1,2 +1,2 @@
 # Githubrepo
-This is my Github repo
+This is my Github repoository
